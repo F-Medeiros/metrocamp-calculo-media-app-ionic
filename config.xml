@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="sigmadark.calculo.media.github" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="sigmadark.calculo.media.github" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Metrocamp Calculo Media App</name>
     <description>Aplicativo para calcular quanto você precisa tirar nas próximas provas para grade antiga da faculdade Metrocamp</description>
     <author email="smedeiros.flavio@gmail.com" href="https://fb.com/smedeiros.flavio">Flávio Medeiros</author>
